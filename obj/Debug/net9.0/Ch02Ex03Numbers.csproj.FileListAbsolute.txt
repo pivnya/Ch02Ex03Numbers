@@ -1,0 +1,14 @@
+E:\!prop\cs12dotnet8\Chapter02-vscode\Ch02Ex03Numbers\bin\Debug\net9.0\Ch02Ex03Numbers.exe
+E:\!prop\cs12dotnet8\Chapter02-vscode\Ch02Ex03Numbers\bin\Debug\net9.0\Ch02Ex03Numbers.deps.json
+E:\!prop\cs12dotnet8\Chapter02-vscode\Ch02Ex03Numbers\bin\Debug\net9.0\Ch02Ex03Numbers.runtimeconfig.json
+E:\!prop\cs12dotnet8\Chapter02-vscode\Ch02Ex03Numbers\bin\Debug\net9.0\Ch02Ex03Numbers.dll
+E:\!prop\cs12dotnet8\Chapter02-vscode\Ch02Ex03Numbers\bin\Debug\net9.0\Ch02Ex03Numbers.pdb
+E:\!prop\cs12dotnet8\Chapter02-vscode\Ch02Ex03Numbers\obj\Debug\net9.0\Ch02Ex03Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\!prop\cs12dotnet8\Chapter02-vscode\Ch02Ex03Numbers\obj\Debug\net9.0\Ch02Ex03Numbers.AssemblyInfoInputs.cache
+E:\!prop\cs12dotnet8\Chapter02-vscode\Ch02Ex03Numbers\obj\Debug\net9.0\Ch02Ex03Numbers.AssemblyInfo.cs
+E:\!prop\cs12dotnet8\Chapter02-vscode\Ch02Ex03Numbers\obj\Debug\net9.0\Ch02Ex03Numbers.csproj.CoreCompileInputs.cache
+E:\!prop\cs12dotnet8\Chapter02-vscode\Ch02Ex03Numbers\obj\Debug\net9.0\Ch02Ex03Numbers.dll
+E:\!prop\cs12dotnet8\Chapter02-vscode\Ch02Ex03Numbers\obj\Debug\net9.0\refint\Ch02Ex03Numbers.dll
+E:\!prop\cs12dotnet8\Chapter02-vscode\Ch02Ex03Numbers\obj\Debug\net9.0\Ch02Ex03Numbers.pdb
+E:\!prop\cs12dotnet8\Chapter02-vscode\Ch02Ex03Numbers\obj\Debug\net9.0\Ch02Ex03Numbers.genruntimeconfig.cache
+E:\!prop\cs12dotnet8\Chapter02-vscode\Ch02Ex03Numbers\obj\Debug\net9.0\ref\Ch02Ex03Numbers.dll
